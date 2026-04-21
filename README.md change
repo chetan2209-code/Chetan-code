@@ -4,3 +4,14 @@ This is my first git repo
 author - Chetan Rana
 
 A simple and interactive web tool that captures your keyboard inputs and displays the character live on the screen with a clean, minimalist design.
+
+# FEATURES:-
+* Live input detection.
+* Minimalist UI.
+* Fast & lightweight.
+* Learning Tool.
+
+# Language is used:-
+* HTML5:- Basic structure for the display area.
+* CSS3:- For the grey background and centered, large font styling.
+* JavaScript:- Uses keydown event listeners to capture and update the UI
